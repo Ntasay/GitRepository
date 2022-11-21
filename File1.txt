@@ -2,3 +2,4 @@ Hello World!!! 12345
 And Good Bye! See you later ;)
 User2
 Line from user1 - lesson about rebase
+LINE FROM USER1
