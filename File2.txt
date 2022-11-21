@@ -3,4 +3,4 @@ Some other line
 !Add line for User2
 New change
 Line new - lesson from rebase
-LINE FROM USER2
+LINE FROM USER2 - 22
